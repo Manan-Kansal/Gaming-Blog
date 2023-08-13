@@ -1,0 +1,131 @@
+*{
+    margin: 0px auto;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+}
+.header{
+    width: 75%;
+    /* height: 25%; */
+    background-image:url(https://images.pexels.com/photos/235985/pexels-photo-235985.jpeg?cs=srgb&dl=pexels-pixabay-235985.jpg&fm=jpg);
+    color: white;
+    font-size: 50px;
+    margin: 12px auto !important;
+    padding: 60px 90px;
+}
+.navigation a{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
+.news{
+    color:black;
+}
+.leftbox{
+    width: 25%;
+    background-image: url(https://i.pinimg.com/736x/db/89/07/db8907208b387dedf183982486f262f8.jpg);
+    text-align: center;
+    float: left;
+    margin-left:1% ;
+    border: solid 3px black;
+}
+.centerbox{
+    width:35%;
+    background-image: url(https://i.pinimg.com/736x/db/89/07/db8907208b387dedf183982486f262f8.jpg);
+    text-align: center;
+    float: left;
+    margin-left: 6.3%;
+    border: solid 3px black;
+}
+.rightbox{
+    width: 25%;
+    background-image: url(https://i.pinimg.com/736x/db/89/07/db8907208b387dedf183982486f262f8.jpg);
+    text-align: center;
+    float:left;
+    margin-left: 6.3%;
+    border: solid 3px black;
+}
+.center{
+    color: aqua;
+    background-color: black;
+}
+.team{
+    text-align: center;
+}
+.friend1{
+    width: 15%;
+    float: left;
+    background-color: whitesmoke;
+    margin: 15px;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+img{
+    width: 30%;
+}
+.friend2{
+    width: 15%;
+    float: left;
+    background-color: whitesmoke;
+    margin: 15px;
+    border-radius: 10px;
+}
+.friend3{
+    width: 15%;
+    float: left;
+    background-color: whitesmoke;
+    margin: 15px;
+    border-radius: 10px;
+}
+.friend4{
+    width: 15%;
+    float: left;
+    background-color: whitesmoke;
+    margin: 15px;
+    border-radius: 10px;
+}
+.friend5{
+    width: 15%;
+    float: left;
+    background-color: whitesmoke;
+    margin: 15px;
+    border-radius: 10px;
+}
+.games{
+    float: left;
+    margin: 5px;
+    width: 24%;
+    height: 80%;
+}
+.games img{
+    width: 400px;
+    height: 290px;
+}
+.names{
+    padding: 15px;
+}
+.subscribe{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/005/255/101/original/night-starry-skies-with-white-blinking-stars-free-video.jpg);
+    margin:30px 25px;
+    padding: 3%;
+    text-align: center;
+    border-radius: 5px;
+}
+.subscribe h1{
+    background-color: rgba(255, 0, 0 , 0.7);
+    padding: 10px 25px;
+    font-size: 30px;
+    border:2px solid black;
+    color: black;
+    display: inline-block;
+}
+.about{
+    text-align: left !important;
+    color: white;
+    margin: 3% 0px;
+    padding: 2.5%;
+    font-size: 20px;
+    line-height: 24px;
+    background-color: rgba(0, 0, 0 , 0.8);
+}
